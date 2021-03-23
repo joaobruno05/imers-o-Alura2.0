@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-São 10 dias de imersão, onde em cada aula será feito um projeto. Irei documentar os meus programas abaixo!
+São 10 dias de imersão, onde em cada aula será feito um projeto. Irei documentar toda a minha jornada.
 
 <hr>
 
