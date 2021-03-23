@@ -1,0 +1,75 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  background-image: url('https://www.famdvd.com.br/media/catalog/product/cache/1/img_topo/040ec09b1e35df139433887a97daa66f/0/6/06152124529040.jpg');
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: 280vh;
+  overflow: hidden;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #fff;
+  margin-top: 15px;
+}
+
+.page-subtitle {
+  color: #fff;
+  margin-top: -20px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+.entrada {
+  margin-top: 20px;
+}
+
+.entrada input {
+  height: 20px;
+}
+
+.entrada button {
+  padding: 6px;
+  background: #1782f4;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.entrada button:hover {
+  background: #2f227a;
+}
+
+.saida {
+  margin-top: 10px;
+  margin-left: -50px;
+}
+
+.saida input {
+  height: 20px;
+}
+
+a img {
+  padding: 5px;
+  background: #1782f4;
+}
+
+span {
+  color: #fff;
+  padding: 5px;
+  background: #ffd700;
+}
