@@ -1,7 +1,7 @@
 # Imersão Dev Alura 2.0
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/imersaoAlura2.0/blob/main/license.txt)
 
-# Sobre o projeto
+# Sobre o evento
 
 São 10 dias de imersão, onde em cada aula será feito um projeto. Irei documentar toda a minha jornada e os meus aprendizados.
 
@@ -21,7 +21,7 @@ Este programa converte a distância de anos-luz para quilômetros, como proposto
 - Utilizar o evento 'onclick' para retornar o valor de saída da função no lugar desejado
 - Determinar o número de casas decimais que eu desejo colocar depois da vírgula, com o .toFixed()
 
-<hr>
+<br>
 
 # Dia 02 - Evolução pokemon
 
