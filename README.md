@@ -9,8 +9,9 @@ São 10 dias de imersão, onde em cada aula será feito um projeto. Irei documen
 
 Este programa converte a distância de anos-luz para quilômetros, como proposto pelo Paulo Silveira (CEO), com um background de uma imagem do filme Interistelar e retorna na tela a resposta em Km.
 
+<br>
 
-<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia01/Conversor%20de%20dist%C3%A2ncia.gif" width="600">
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia01/Conversor%20de%20dist%C3%A2ncia.gif" width="800">
 
 
 #### O que eu aprendi:
