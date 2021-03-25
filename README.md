@@ -1,5 +1,5 @@
 # Imersão Dev Alura 2.0
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/imersaoAlura2.0/blob/main/license.txt)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/imersaoAlura2.0/blob/main/LICENSE)
 
 # Sobre o evento
 
