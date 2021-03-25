@@ -44,7 +44,7 @@ Este programa retorna se o usuário acertou ou errou o número escolhido pelo pr
 
 <br>
 
-<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia02/pokemon.gif" width="800">
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia03/Desafio-n%C3%BAmero.gif" width="800">
 
 [Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia03)
 
