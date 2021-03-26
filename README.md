@@ -60,7 +60,7 @@ Este programa mostra na tela os filmes escolhidos pelo usuário.
 
 <br>
 
-<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia04/AluraFlix.gif" width="1000">
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia04/AluraFlix.gif" width="800">
 
 [Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia04)
 
