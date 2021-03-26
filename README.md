@@ -51,3 +51,19 @@ Este programa retorna se o usuário acertou ou errou o número escolhido pelo pr
 #### O que eu aprendi:
 - Utilizar a função while
 - Mudar o background de acordo com a resposta dada, utilizando 'style.backgroundColor'
+
+<br>
+
+# Dia 04 - AluraFlix
+
+Este programa mostra na tela os filmes escolhidos pelo usuário.
+
+<br>
+
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia04/AluraFlix.gif" width="1000">
+
+[Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia04)
+
+#### O que eu aprendi:
+- Utilizar a função for
+- Fazer alterações com Javascript usando o 'innerHTML'
