@@ -1,5 +1,5 @@
 # Imersão Dev Alura 2.0
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/imersaoAlura2.0/blob/main/license.txt)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaobruno05/imersaoAlura2.0/blob/main/LICENSE)
 
 # Sobre o evento
 
@@ -35,3 +35,19 @@ Este programa retorna o nome da evolução de um pokemon de acordo com escolhido
 
 #### O que eu aprendi:
 - Utilizar as funções if e else para retornar um valor de acordo com a entrada de dados
+
+<br>
+
+# Dia 03 - Advinhar número
+
+Este programa retorna se o usuário acertou ou errou o número escolhido pelo próprio computador.
+
+<br>
+
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia03/Desafio-n%C3%BAmero.gif" width="800">
+
+[Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia03)
+
+#### O que eu aprendi:
+- Utilizar a função while
+- Mudar o background de acordo com a resposta dada, utilizando 'style.backgroundColor'
