@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Aluraflix2 - Funções</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+
+<head>
+    <title>
+        Imersão Dev - Aula 05
+    </title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            Aluraflix
+        </h1>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-aluraflix.svg" class="page-logo"
+            alt="">
+        <p class="page-subtitle">
+            Qual seu filme favorito?
+        </p>
+        <div class="form-wrapper">
+            <input type="text" id="filme" name="filme" placeholder="Insira o nome do filme">
+            <button class='btn-trailer' onClick="adicionarFilme()">Assistir Trailer</button>
+          <div>
+            <button class='btn-limpar' onclick='limparCampo()'>Limpar</button>
+          </div>
+        </div>
+    </div>
+    <div id="listaFilmes"></div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+    </a>
+  
+   <!-- Toy Story -->
+      <div id='todosOsVideos'>
+        <iframe id="toyStory" width="0" height="0" src="https://www.youtube.com/embed/xNWSGRD5CzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      <!-- Star Wars -->
+      <iframe id='starWars' width="0" height="0" src="https://www.youtube.com/embed/W0squnw6Jp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      <!-- Interestelar -->
+      <iframe id='interestelar' width="0" height="0" src="https://www.youtube.com/embed/BYUZhddDbdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      <!-- Cabras da Peste -->
+      <iframe id='cabrasDaPeste' width="0" height="0" src="https://www.youtube.com/embed/9wAF0NtOCc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      <!-- Pelé -->
+      <iframe id='pele' width="0" height="0" src="https://www.youtube.com/embed/GS0dFi63Nzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+</body>
+
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
