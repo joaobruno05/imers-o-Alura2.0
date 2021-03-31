@@ -1,0 +1,81 @@
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 550px;
+    background-image: url('https://static5.vvale.com.br/cbnvaledoiguacu/files/2018/04/futebol-reproducao.jpg');
+    background-color: #111;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table {
+    background: black;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+h1 {
+  background: green;
+  color: white;
+  padding: 10px;
+}
+
+th, tr, td {
+    border: solid 1px white;
+    color: white;
+}
+
+.cabecalhoTabela {
+  background: #5d46e2;
+}
+
+.time {
+ padding: 10px;
+ width: 30%;
+}
+
+.adicionarEvento {
+  width: 40%;
+  padding: 5px;
+}
+
+button {
+  border: 0;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.vitoria {
+  background: green;
+  color: white;
+}
+
+.vitoria:hover {
+  opacity: 0.8;
+  transition: .3s;
+}
+
+.empate {
+  background: white;
+  color: black;
+}
+
+.empate:hover {
+  opacity: 0.8;
+  transition: .3s;
+}
+
+.derrota {
+  background: red;
+  color: white;
+}
+
+.derrota:hover {
+  opacity: 0.8;
+  transition: .3s;
+}
