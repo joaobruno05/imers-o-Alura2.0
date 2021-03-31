@@ -67,3 +67,16 @@ Este programa mostra na tela os filmes escolhidos pelo usuário.
 #### O que eu aprendi:
 - Utilizar a função for
 - Fazer alterações com Javascript usando o 'innerHTML'
+
+# Dia 05 - AluraFlix com funções
+
+Este programa retorna o trailer do filme escolhido pelo usuario. Tem 5 opções de filmes e o trailer aparece quando é clicado no botão "Assistir Trailer". O trailer é um vídeo do próprio Youtube
+
+<br>
+
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia05/Aluraflix2-Fun%C3%A7%C3%B5es.gif" width="800">
+
+[Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia05)
+
+#### O que eu aprendi:
+- Inserir um vídeo do Youtube e fazer ele aparecer ao clicar em um botão com Javascript, modificando as dimensões
