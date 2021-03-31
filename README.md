@@ -68,6 +68,8 @@ Este programa mostra na tela os filmes escolhidos pelo usuário.
 - Utilizar a função for
 - Fazer alterações com Javascript usando o 'innerHTML'
 
+<br>
+
 # Dia 05 - AluraFlix com funções
 
 Este programa retorna o trailer do filme escolhido pelo usuario. Tem 5 opções de filmes e o trailer aparece quando é clicado no botão "Assistir Trailer". O trailer é um vídeo do próprio Youtube
@@ -80,3 +82,19 @@ Este programa retorna o trailer do filme escolhido pelo usuario. Tem 5 opções 
 
 #### O que eu aprendi:
 - Inserir um vídeo do Youtube e fazer ele aparecer ao clicar em um botão com Javascript, modificando as dimensões
+
+<br>
+
+# Dia 06 - Tabela de Classificação e objetos no Javascript
+
+Este programa mostra uma tabela de classifação de times de futebol. Pode-se adicionar eventos de vitória, derrota e empate para cada time.
+
+<br>
+
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia06/Tabela-de-classifica%C3%A7%C3%A3o.gif" width="800">
+
+[Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia06)
+
+#### O que eu aprendi:
+- Inserir códigos HTML dentro do Javascript
+- Utilização de objetos no Javascript
