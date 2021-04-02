@@ -98,3 +98,18 @@ Este programa mostra uma tabela de classifação de times de futebol. Pode-se ad
 #### O que eu aprendi:
 - Inserir códigos HTML dentro do Javascript
 - Utilização de objetos no Javascript
+
+<br>
+
+# Dia 07 - Super Trunfo: Duelo de Jogadores
+
+Este programa mostra uma carta do usuário e outra da máquina. De acordo com o atributo escolhido, é mostrado qual a carta vencedora.
+
+<br>
+
+<img src="https://github.com/joaobruno05/imersaoAlura2.0/blob/main/projetos/dia07/Super%20Trunfo.gif" width="800">
+
+[Meu código](https://github.com/joaobruno05/imersaoAlura2.0/tree/main/projetos/dia07)
+
+#### O que eu aprendi:
+- Manipular alguns eventos novos e objetos no Javascript
